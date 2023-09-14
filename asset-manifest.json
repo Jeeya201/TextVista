@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextVista/static/css/main.3d701b37.css",
-    "main.js": "/TextVista/static/js/main.a7eae6d8.js",
-    "static/js/787.0a8bed36.chunk.js": "/TextVista/static/js/787.0a8bed36.chunk.js",
-    "index.html": "/TextVista/index.html",
-    "main.3d701b37.css.map": "/TextVista/static/css/main.3d701b37.css.map",
-    "main.a7eae6d8.js.map": "/TextVista/static/js/main.a7eae6d8.js.map",
-    "787.0a8bed36.chunk.js.map": "/TextVista/static/js/787.0a8bed36.chunk.js.map"
+    "main.css": "/textvista/static/css/main.3d701b37.css",
+    "main.js": "/textvista/static/js/main.c434ea0c.js",
+    "static/js/787.0a8bed36.chunk.js": "/textvista/static/js/787.0a8bed36.chunk.js",
+    "index.html": "/textvista/index.html",
+    "main.3d701b37.css.map": "/textvista/static/css/main.3d701b37.css.map",
+    "main.c434ea0c.js.map": "/textvista/static/js/main.c434ea0c.js.map",
+    "787.0a8bed36.chunk.js.map": "/textvista/static/js/787.0a8bed36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d701b37.css",
-    "static/js/main.a7eae6d8.js"
+    "static/js/main.c434ea0c.js"
   ]
 }
