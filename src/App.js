@@ -7,7 +7,7 @@ import Navbar from './components/Navbar';
 import { useState } from 'react';
 // import Alert from './components/Alert';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
@@ -39,13 +39,13 @@ function App() {
 
   return (
     <>
-      <Router>
+      <Router basename="/TextVista">
       <Navbar title="TextVista" mode={mode} toggleMode={toggleMode}  />
       {/* <Alert alert = {alert}/>   */}
       <div className="container my-3">
         <Routes>   
           <Route exact path="/about" element={<About heading="ABOUT US" mode={mode} toggleMode={toggleMode} />  } />
-          <Route exact path="/" element={<TextForm heading="Enter the text to analyse below "
+          <Route exact path="/TextVista" element={<TextForm heading="Enter the text to analyse below "
                 mode={mode} />} />
         </Routes>
       </div>
