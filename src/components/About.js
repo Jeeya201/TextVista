@@ -16,8 +16,7 @@ export default function About(props) {
     {/* </h2> */}
     <div id="collapseOne" className="accordion-collapse collapse " data-bs-parent="#accordionExample">
       <div className="accordion-body">
-        Text Utils gives you a way to analyze your tet quickly and efficiently. Be it word count , converting it to uppercase or lowercase , character count.
-      </div>
+"Text Vista is a versatile app designed to streamline text analysis with speed and efficiency. With Text Vista, you can easily perform essential tasks such as word count, text case conversion (both uppercase and lowercase), character count, and even estimate the time required to read a piece of text. Additionally, Text Vista provides valuable insights into the text's structure, including the number of sentences and more. Whether you're a writer, student, or professional, Text Vista is your go-to tool for comprehensive text analysis."      </div>
     </div>
   </div>
   {/* <div className={`"accordion-item" p-3 text-${props.mode==='dark'?'black':'black'} bg-${props.mode==='dark'?'primary':'light'}`}> */}
@@ -29,8 +28,7 @@ export default function About(props) {
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body">
-        It is a free to use utility ! 
-      </div>
+"Text Vista is completely free to use, making it an accessible and cost-effective utility for all users. Enjoy its powerful text analysis features without any financial constraints."      </div>
     </div>
   </div>
   {/* <div className={`"accordion-item" p-3 text-${props.mode==='dark'?'black':'black'} bg-${props.mode==='dark'?'white':'white'}`}> */}
@@ -41,8 +39,7 @@ export default function About(props) {
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body">
-        This word  counter works in anybrowser : internet explorer, firfox, chrome etc.It suits  to count characters in facebook, nblog,books,excel document , pdf document ,etc
-      </div>
+"This versatile word counter seamlessly operates across all major web browsers, including Internet Explorer, Firefox, and Chrome, ensuring compatibility for users across platforms. Whether you need to count characters in your Facebook posts, blog entries, books, Excel documents, or even PDF files, Text Vista's word counter is your reliable solution. It offers universal convenience for a wide range of text analysis needs, regardless of the platform or document type."      </div>
   </div>
 </div>
 </div>
