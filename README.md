@@ -1,5 +1,11 @@
 # <div align="center"> TextVista </div>
 
+## Project Link
+
+<div align="center">
+    <a href="https://Jeeya201.github.io/textvista" style="font-size: 1.5em; font-weight: bold; text-decoration: none; color: #007bff;">View the Project on GitHub</a>
+</div>
+<br>
 TextUtils is a text analyzer, word counter, and converter made with React. It provides a variety of text manipulation features to help you work with text in different ways.
 
 <p align="center">
@@ -24,8 +30,4 @@ TextUtils is a text analyzer, word counter, and converter made with React. It pr
 - **Dark Mode**: 
 ![Dark Mode](https://github.com/Jeeya201/textvista/assets/104685075/12165db9-8229-4c19-ab08-9d7ee187ed64)
 
-## Project Link
 
-<div align="center">
-    <a href="https://Jeeya201.github.io/textvista" style="font-size: 1.5em; font-weight: bold; text-decoration: none; color: #007bff;">View the Project on GitHub</a>
-</div>
